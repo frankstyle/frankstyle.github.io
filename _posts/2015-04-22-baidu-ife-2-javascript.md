@@ -12,6 +12,19 @@ excerpt: 百度前端学院基础课程 JavaScript 相关。
 
 ## 任务
 
+```java
+public staic void()
+{
+	print("XXXXXXXXxxD0ooooooooooooo");
+}
+
+
+
+```
+
+
+
+
 掌握JavaScript基础知识，能够使用JavaScript编写一些复杂度不大的交互功能。
 
 **任务：** [JavaScript基础](https://github.com/Gaohaoyang/ife/tree/master/task/task0002)   
