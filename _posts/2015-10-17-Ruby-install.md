@@ -35,6 +35,7 @@ categories: "Ruby"
 	     rl_pre_input_hook = (Function *)readline_pre_input_hook;
 
 StackOverFlow上也有对应的解答：[compile Ruby 2.0 errors without rvm or rbenv , readline.c:1886:26: error: 'Function' undeclared (first use in this function)](http://stackoverflow.com/questions/23488790/compile-ruby-2-0-errors-without-rvm-or-rbenv-readline-c188626-error-func)
+
 ##解决方案
 当出现`Function undeclared`时，将Ruby中的`ext/readline/readline.c`文件第1977行：
 
