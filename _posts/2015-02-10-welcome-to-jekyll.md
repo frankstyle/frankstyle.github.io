@@ -10,12 +10,12 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-```java
-public static void main(args)
-{
+
+    public static void main(args)
+    {
 	System.out.println("hello world!");
-}
-```
+    }
+
 <i class="icon-list"></i>dsssssssss
 <i class="icon-chevron-sign-left"></i>sddddddfsf
 
