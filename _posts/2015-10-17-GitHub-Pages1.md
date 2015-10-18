@@ -27,7 +27,10 @@ GitHub Pages 提供了域名绑定的功能，可以通过访问自己的域名�
 
 >` sudo apt-get install git`
 
-在[Github](https://github.com)页面中找到刚才创建的个人主页仓库的`Https`地址（如：https://github.com/frankstyle/frankstyle.github.io.git），在终端进行`Clone`操作：`git clone https://github.com/frankstyle/frankstyle.github.io.git`。
+在[Github](https://github.com)页面中找到刚才创建的个人主页仓库的`Https`地址（如：https://github.com/frankstyle/frankstyle.github.io.git），在终端进行`Clone`操作：
+
+>`git clone https://github.com/frankstyle/frankstyle.github.io.git`。
+
 期间如果提示设置`global user.emal`和`global user.name`.按照对应的提示设置即可，然后继续克隆。
 
 ####绑定域名
