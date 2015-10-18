@@ -47,11 +47,11 @@ GitHub端设置好后还要配置域名服务器，使其进行解析跳转。�
 	
 > 绑定到一级域名时，只需设置A类型记录即可,几分钟后即可生效，访问地址如：[http:frankstyle.com](http://frankstyle.com)
 ![enter image description here](http://7xnlje.com1.z0.glb.clouddn.com/frankcname1.png)
-对应的IP地址为GitHub Pages提供的固定IP，[查看IP Address](https://help.github.com/categories/github-pages-basics)
+对应的IP地址为GitHub Pages提供的固定IP，[查看IP Address](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/)
 
 - 绑定到二级域名
 
-> 绑定二级域名时，需要设置cname纪录目前实验过。
+> 绑定二级域名时，需要设置cname纪录目前实验过,详情请参考[GitHub Help](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider/)
 
 
 ---------
