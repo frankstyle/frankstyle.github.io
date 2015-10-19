@@ -101,7 +101,7 @@ Jekyll本身基于Ruby开发，因此，如果要在本地构建一个测试环�
 	  Server running... press ctrl-c to stop.
 
 可以通过 [http://localhost:4000](http://localhost:4000)进行访问
-jekyll  Could not find a JavaScript runtime
+
 
 ###异常预警
 
