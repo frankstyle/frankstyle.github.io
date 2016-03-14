@@ -23,7 +23,7 @@ categories: "GitHub-Pages"
 
 ##安装Ruby
 
-Jekyll本身基于Ruby开发，因此，如果要在本地构建一个测试环境需要具有Ruby的开发和运行环境，并且Ruby版本至少2.0。安装方法参照[Ruby安装指南](http://frankstyle.com/2015/10/18/Ruby-install/)，也可以参照[StackOverFlow：How to install Ruby 2 on Ubuntu without RVM](http://stackoverflow.com/questions/18490591/how-to-install-ruby-2-on-ubuntu-without-rvm)
+Jekyll本身基于Ruby开发，因此，如果要在本地构建一个测试环境需要具有Ruby的开发和运行环境，并且Ruby版本至少2.0。安装方法参照[Ruby安装指南](/2015/10/18/Ruby-install/)，也可以参照[StackOverFlow：How to install Ruby 2 on Ubuntu without RVM](http://stackoverflow.com/questions/18490591/how-to-install-ruby-2-on-ubuntu-without-rvm)
 高版本的Ruby自带Gem工具，无需重新安装Gem。
 
 
