@@ -1,23 +1,44 @@
-# Site settings
-title: frankstyle 
-email: wangfan_work@163.com
-description: 汪凡的个人小窝 向全栈程序员靠拢
-# > # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
+# Site settings
+title: Frankstyle
+brief-intro: Full Stack Fresher
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://frankstyle.com" # the base hostname & protocol for your site
+
+permalink: date
+
+# other links
 github_username:  frankstyle
-permalink: /:year/:month/:day/:title/
+email: wangfan_work@163.com
+zhihu_username: frankstyle
+
+description_footer: 浮躁是种病,得治.做只安安静静的猴子！
+
+duoshuo_shortname: frank_wang
 
 # Build settings
 markdown: kramdown
 
-# highlight
-# 本地用rouge, github上用pygments
-#highlighter: pygments
-highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
+# port
+# port: 1234
+
+# url
+category_dir: category/
+tag_dir: tag/
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+gems: [jekyll-paginate]
+paginate: 5

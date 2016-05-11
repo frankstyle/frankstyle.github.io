@@ -3,12 +3,18 @@ layout: post
 title:  "Ubuntu 下NodeJS 安装指南"
 date:  2015-10-18 3:46
 categories: "NodeJS"
+tags: NodeJS 
+excerpt: Ubuntu-14.04 下安装 NodeJS的菜鸟指南
+
 ---
 
 * content
 {:toc}
 
-##安装流程
+
+
+### 安装流程
+---
 
 Ubuntu-14.04下通过命令
 
@@ -18,7 +24,8 @@ Ubuntu-14.04下通过命令
 
 干货链接：[NodeJS 开源包地址](http://nodejs.org/dist/)，目前提供如下两种方式安装`NodeJs`
 
-###绿色非安装版
+### 绿色非安装版
+---
 进入[NodeJs官网](http://nodejs.org/dist/)，选择适合的版本（如：`node-v0.12.7-linux-x64.tar.gz`），解压
 
 >`tar -zxvf node-v0.12.7-linux-x64.tar.gz -C /opt/`
@@ -32,7 +39,8 @@ Ubuntu-14.04下通过命令
 >`export PATH=$PATH:/opt/nodejs/bin`
 
 
-###编译后Install
+### 编译后Install
+---
 
 选择合适的版本进行编译操作（如：`node-v0.12.3.tar.gz`），解压缩，准备编译
 
@@ -45,5 +53,6 @@ Ubuntu-14.04下通过命令
 参考地址：[Ubuntu15.04编译安装nodejsV0.12.3](http://www.bubuko.com/infodetail-821876.html)，是否成功待实践。。。
 
 
-###升级NodeJs
+### 升级NodeJs
+---
 NodeJs在CGW的淫威下，升级一直不成功，设置PPA时好时坏，都不能好好的玩耍了，说多了都是泪

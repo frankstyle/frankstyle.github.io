@@ -3,13 +3,16 @@ layout: post
 title:  "Eclipse 常用快捷键"
 date:  2015-10-18 22:20
 categories: "Eclipse"
+tags: Eclipse 快捷键
+excerpt: Eclipse 快捷键策略
+
 ---
 
 * content
 {:toc}
 
 
-###Eclipse 快捷键策略
+### Eclipse 快捷键策略
 
 >**`Ctrl`: 默认快捷键**
 >
@@ -17,7 +20,7 @@ categories: "Eclipse"
 >
 >**`Alt`: 与修改相关 配合`Shift`使用(重名名,方法变量抽取等等)**
 
-###编辑相关的快捷键
+### 编辑相关的快捷键
 
 >`Ctrl+1`: 快速修复
 >
@@ -49,7 +52,7 @@ categories: "Eclipse"
 >
 >`Ctrl+Shift+F`: 格式化当前代码
 
-###查询相关的快捷键
+### 查询相关的快捷键
 
 >`Ctrl+Q`: 定位到最后编辑的地方
 >
@@ -89,7 +92,7 @@ categories: "Eclipse"
 >
 >`Alt+Enter`: 显示当前选择资源的属性
 
-###重构相关的快捷键
+### 重构相关的快捷键
 
 >`Alt+Shift+R`: 重命名 
 >
@@ -101,7 +104,7 @@ categories: "Eclipse"
 >
 >`Alt+Shift+Z`: 重构的后悔药(Undo)
 
-###基本快捷键
+### 基本快捷键
     
 >`Ctrl+W`: 关闭当前Edit
 >
@@ -128,7 +131,7 @@ categories: "Eclipse"
 >`Ctrl+↑↓`: 上下滚行
 >`Ctrl+Shift+↑↓`: 滚动增强
 
-###调试相关
+### 调试相关
 
 >`Ctrl+Shift+B`: 设置\|取消断点
 >
@@ -142,7 +145,7 @@ categories: "Eclipse"
 >
 >`Ctrl + Shift + I`: 查看选中的表达式的值
 
-###执行相关
+### 执行相关
 
 >`Alt+Shift+X`: 指定运行方式
 >
